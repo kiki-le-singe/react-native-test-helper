@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-test-helper.git",
-    "baseUrl": "https://github.com/github_account/react-native-test-helper"
+    "url": "git+https://github.com/kiki-le-singe/react-native-test-helper.git",
+    "baseUrl": "https://github.com/kiki-le-singe/react-native-test-helper"
   },
   "keywords": [
     "react-native"
